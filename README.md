@@ -9,5 +9,5 @@
 | --- | --- | --- | --- |
 | 🏆 8k5$ Prizes @ ETHGlobal Istanbul | [Sofilend](https://ethglobal.com/showcase/sofilend-fajeu) | Nov' 2023 | [ETHGlobal Istanbul](https://ethglobal.com/) |
 | 🥉 3rd @ KRYPTOSPHERE X 1inch X Near | [InsurancePlace](https://github.com/mathisrgt/InsurancePlace) | Nov' 2023 | [Kryptosphere](https://twitter.com/KRYPTOSPHERE) |
-| 🏆 3k$ Solo Project @ EPFL X Sui Foundation | [DeFraud](https://github.com/mathisrgt/defraud-hackathon | Oct' 2023 | [HEC Paris](https://www.hec.edu/fr) |
-| 🥇1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/Shimadakunn/LugTrack) | Sept' 2023 | [Paris Dauphine](https://dauphine.psl.eu/)
+| 🏆 3k$ Solo Project @ EPFL X Sui Foundation | [DeFraud](https://github.com/mathisrgt/defraud-hackathon | Oct' 2023 | [EPFL](https://www.epfl.ch/en/) |
+| 🥇1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/mathisrgt/LugTrack) | Sept' 2023 | [Paris Dauphine](https://dauphine.psl.eu/)
