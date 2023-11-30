@@ -12,7 +12,7 @@
 | 🏆 3k$ Solo Project @ EPFL X Sui Foundation | [DeFraud](https://github.com/mathisrgt/defraud-hackathon) | Oct' 2023 | [EPFL](https://www.epfl.ch/en/) |
 | 🥇 1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/mathisrgt/LugTrack) | Sept' 2023 | [Paris Dauphine](https://dauphine.psl.eu/)
 
-<h2> 💻 Most recent tech:</h2>
+<h2> 💻 Last tech used:</h2>
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
