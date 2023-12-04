@@ -28,4 +28,5 @@
 | App | Link |
 | --- | --- |
 | LinkedIn | [Mathis Sergent](https://www.linkedin.com/in/mathis-sergent/) |
-| Hey.xyz | [mathisrgt](https://hey.xyz/u/mathisrgt) |
+| X (Twitter) | [xmsrgt](https://twitter.com/xmsrgt) |
+| Lens | [mathisrgt](https://hey.xyz/u/mathisrgt) |
