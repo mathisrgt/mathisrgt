@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PGSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3>🔗 Contact me:</h3>
+<h2>🔗 Contact me:</h2>
 
 | App | Link |
 | --- | --- |
