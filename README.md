@@ -1,7 +1,7 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/mathis-sergent/">Mathis</a> 👋</h1>
 
 <h2>👨‍💻 About Me</h2>
-👨‍🎓 Blockchain Engineering Student at ESILV Paris<br>🥇 Hackaton Participant & Web3 Builder<br>👨‍💻 Developer at XRP Ledger Commons Residency
+👨‍🎓 Blockchain Engineering Student at ESILV Paris<br>🥇 Hackaton Participant & Web3 Builder<br>👨‍💻 Full Stack Developer at XRP Ledger Commons Residency
 
 <h2>🏆 Last hackathons:</h2>
 
