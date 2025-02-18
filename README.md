@@ -1,7 +1,7 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/mathis-sergent/">Mathis</a> 👋</h1>
 
 <h2>👨‍💻 About Me</h2>
-👨‍🎓 Blockchain Engineering Student at ESILV Paris<br>🥇 Hackaton Participant & Web3 Builder<br>👨‍💻 Web3 Full-stack Developer at Nefture Security
+👨‍🎓 Blockchain Engineering Student at ESILV Paris<br>🥇 Hackaton Participant & Web3 Builder<br>👨‍💻 Web3 Full-stack Developer
 
 <h2>🏆 Last hackathons:</h2>
 
@@ -29,5 +29,3 @@
 | App | Link |
 | --- | --- |
 | LinkedIn | [Mathis Sergent](https://www.linkedin.com/in/mathis-sergent/) |
-| X (Twitter) | [xmsrgt](https://twitter.com/xmsrgt) |
-| Lens | [mathisrgt](https://hey.xyz/u/mathisrgt) |
