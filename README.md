@@ -1,18 +1,7 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/mathis-sergent/">Mathis</a> 👋</h1>
 
 <h2>👨‍💻 About Me</h2>
-👨‍🎓 Blockchain Engineering Student at ESILV Paris<br>🥇 Hackaton Participant & Web3 Builder<br>👨‍💻 Web3 Full-stack Developer
-
-<h2>🏆 Last hackathons:</h2>
-
-| Prize | Project | Date | Where |
-| --- | --- | --- | --- |
-| 🏆 4,5k$ Prizes @ ETHGlobal Singapore | [MiniSafe](https://github.com/EthGlobalSing/mini-safe-core) | Sept 2024 | [ETHGlobal Singapore](https://ethglobal.com/showcase/syncsafe-dcrfk) |
-| 🏆 17,5k$ Prizes @ ETHGlobal Brussels | [SyncSafe](https://github.com/syncsafe/syncsafe-core) | Jul 2024 | [ETHGlobal Brussels](https://ethglobal.com/showcase/syncsafe-dcrfk) |
-| 🏆 6k$ Prizes @ ETHDenver 2024 | [Provehance]() | Feb 2024 | [ETH Denver 2024](https://devfolio.co/projects/rrrr-0de5) |
-| 🏆 8k5$ Prizes @ ETHGlobal Istanbul | [Sofilend](https://github.com/NandyBa/SoFiLend) | Nov 2023 | [ETHGlobal Istanbul](https://ethglobal.com/showcase/sofilend-fajeu) |
-| 🏆 3k$ Solo Project @ EPFL X Sui Foundation | [DeFraud](https://github.com/mathisrgt/defraud-hackathon) | Oct 2023 | [EPFL](https://www.epfl.ch/en/) |
-| 🥇 1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/mathisrgt/LugTrack) | Sept 2023 | [Paris Dauphine](https://dauphine.psl.eu/)
+👨‍🎓 Blockchain Engineering Student at ESILV Paris<br>👨‍💻 Web3 Full-stack Developer
 
 <h2> 💻 Last tech used:</h2>
 
